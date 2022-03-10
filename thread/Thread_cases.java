@@ -54,7 +54,7 @@ public class Thread_cases {
 //		t2.start();
 //		t1.start();
 //		t3.start();
-		
+		System.out.println();
 		
 	}
 

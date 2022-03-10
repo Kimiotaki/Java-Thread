@@ -1,10 +1,23 @@
 package thread;
+class Thr extends Thread
+{
+	public void run()
+	{
+		
+	}
+	}
+class Thre extends Thread
+{
+	public void run()
+	{
+		
+	}
+}
 
 public class Thread_method {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	System.out.println("hello");
 	}
 
 }
