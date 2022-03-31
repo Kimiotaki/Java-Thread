@@ -40,6 +40,7 @@ public class Thread_method {
 		//t.interrupt();
 		Thr t1= new Thr();
 		t1.start();
+		System.out.println();
 	}
 
 }
